@@ -13,7 +13,7 @@ function PhotoDetails() {
     }
 
     getPhoto()
-  }, [])
+  }, [id])
 
   return (
     <div id="photo-details">
